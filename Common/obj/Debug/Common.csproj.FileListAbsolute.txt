@@ -13,3 +13,7 @@ D:\Projects\HoneyProduct\Honey\Common\bin\Debug\Honey.Common.pdb
 D:\Projects\HoneyProduct\Honey\Common\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\HoneyProduct\Honey\Common\obj\Debug\Honey.Common.dll
 D:\Projects\HoneyProduct\Honey\Common\obj\Debug\Honey.Common.pdb
+C:\Users\RAZOR\Desktop\Honey\Common\bin\Debug\Honey.Common.dll
+C:\Users\RAZOR\Desktop\Honey\Common\bin\Debug\Honey.Common.pdb
+C:\Users\RAZOR\Desktop\Honey\Common\obj\Debug\Honey.Common.dll
+C:\Users\RAZOR\Desktop\Honey\Common\obj\Debug\Honey.Common.pdb

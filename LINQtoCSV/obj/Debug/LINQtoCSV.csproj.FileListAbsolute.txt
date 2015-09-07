@@ -23,3 +23,7 @@ D:\Projects\HoneyProduct\Honey\LINQtoCSV\bin\Debug\LINQtoCSV.pdb
 D:\Projects\HoneyProduct\Honey\LINQtoCSV\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\HoneyProduct\Honey\LINQtoCSV\obj\Debug\LINQtoCSV.dll
 D:\Projects\HoneyProduct\Honey\LINQtoCSV\obj\Debug\LINQtoCSV.pdb
+C:\Users\RAZOR\Desktop\Honey\LINQtoCSV\bin\Debug\LINQtoCSV.dll
+C:\Users\RAZOR\Desktop\Honey\LINQtoCSV\bin\Debug\LINQtoCSV.pdb
+C:\Users\RAZOR\Desktop\Honey\LINQtoCSV\obj\Debug\LINQtoCSV.dll
+C:\Users\RAZOR\Desktop\Honey\LINQtoCSV\obj\Debug\LINQtoCSV.pdb

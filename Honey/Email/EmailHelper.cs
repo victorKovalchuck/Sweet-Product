@@ -32,7 +32,7 @@ namespace Honey.Email
             smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
             smtp.UseDefaultCredentials = false;
             smtp.EnableSsl = true;
-            smtp.Credentials = new NetworkCredential("victor.kovalchuck@gmail.com", "victor020691");
+            smtp.Credentials = new NetworkCredential("victor.kovalchuck@gmail.com", "none");
             smtp.Send(mailMessage);                                      
         }
       

@@ -19,14 +19,15 @@
 <meta property="og:title" content="Мед" />
 <meta property="og:type" content="food" />
 <meta property="og:url" content="http://season-med.lviv.ua/" />
-<meta property="og:image" content="http://season-med.lviv.ua/Pictures/Bee.jpeg" />
+<meta property="og:image" content="Pictures/images-0.jpeg" />
 <meta property="og:description" content="СезоннийМед" />
 <meta property="og:site_name" content="СезоннийМед" />
 
-<link rel="icon" type="image/ico" href="http://season-med.lviv.ua/App_Themes/Honey/Img/jar.ico"/>
+<link rel="icon" type="image/ico" href="Pictures/images-0.jpeg"/>
 <link rel="shortcut icon" href="http://season-med.lviv.ua/App_Themes/Honey/Img/jar.ico"/>
 
- 
+
+    <img src="Pictures/images-1.jpeg" />
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css"/>
 
     <script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.js"></script>
@@ -93,7 +94,7 @@
             <![endif]>	           
 				<div class="title">                             
                  <a href="Default.aspx" class="SiteName">Сезонний Мед</a><br />
-                  <a href="ContactAs.aspx" class="titlePhone">тел: 0507116375</a>
+                  <a href="ContactAs.aspx" class="titlePhone">тел: 0678000xxx</a>
 					<div class="order">
                         <button id="create-user" class="btnSubmitTitle">Закачати меду</button>											
 					</div>

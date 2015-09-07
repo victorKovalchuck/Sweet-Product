@@ -25,3 +25,12 @@ D:\Projects\HoneyProduct\Honey\DAL\bin\Debug\LINQtoCSV.pdb
 D:\Projects\HoneyProduct\Honey\DAL\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\HoneyProduct\Honey\DAL\obj\Debug\Honey.DAL.dll
 D:\Projects\HoneyProduct\Honey\DAL\obj\Debug\Honey.DAL.pdb
+C:\Users\RAZOR\Desktop\Honey\DAL\bin\Debug\Honey.DAL.dll
+C:\Users\RAZOR\Desktop\Honey\DAL\bin\Debug\Honey.DAL.pdb
+C:\Users\RAZOR\Desktop\Honey\DAL\bin\Debug\Honey.Common.dll
+C:\Users\RAZOR\Desktop\Honey\DAL\bin\Debug\LINQtoCSV.dll
+C:\Users\RAZOR\Desktop\Honey\DAL\bin\Debug\Honey.Common.pdb
+C:\Users\RAZOR\Desktop\Honey\DAL\bin\Debug\LINQtoCSV.pdb
+C:\Users\RAZOR\Desktop\Honey\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\RAZOR\Desktop\Honey\DAL\obj\Debug\Honey.DAL.dll
+C:\Users\RAZOR\Desktop\Honey\DAL\obj\Debug\Honey.DAL.pdb
