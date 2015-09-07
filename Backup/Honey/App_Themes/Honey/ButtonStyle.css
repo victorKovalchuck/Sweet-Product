@@ -1,0 +1,28 @@
+﻿body
+{
+}
+.btnSubmit
+{
+  
+    background: #F8D568; /* Old browsers */
+    -webkit-border-radius:  8px;
+    -moz-border-radius: 8px;
+    border-radius:8px;
+    border:1px solid;
+    text-decoration:none;
+    padding: 5px 15px;
+}
+
+
+.btnSubmit:active
+{
+	background: #F8D568; /* Old browsers */
+    background: -moz-linear-gradient(top,  #F4C430 0%, #FAF9C9 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F4C430), color-stop(100%,#FAF9C9)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #F4C430 0%,#FAF9C9 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #F4C430 0%,#FAF9C9 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #F4C430 0%,#FAF9C9 100%); /* IE10+ */
+    background: linear-gradient(top,  #F4C430 0%,#FAF9C9 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F4C430', endColorstr='#FAF9C9',GradientType=0 ); /* IE6-9 */
+    
+}

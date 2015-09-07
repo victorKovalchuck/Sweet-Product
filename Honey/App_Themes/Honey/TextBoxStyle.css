@@ -1,0 +1,25 @@
+﻿body
+{
+}
+
+.txtUserName,.inputFE,.inputBE
+{
+	margin:5px;
+	padding:5px;
+	border:1px outset black;
+	outline:0;
+	height:25px;
+}
+.inputBE
+{
+    width:20%;
+}
+.inputFE
+{
+    width:97%;   
+}
+	
+txtUserName:-webkit-input-placeholder
+{
+	color:#F8D568;
+}

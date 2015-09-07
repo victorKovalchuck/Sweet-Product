@@ -1,0 +1,28 @@
+﻿body
+{
+}
+.SiteName1,.SiteName2
+{
+	text-align:center;
+	font-size:40px;
+	font-variant:small-caps;
+	position:absolute;
+	background: -webkit-linear-gradient(left,orange 0%,yellow 100%);
+	font-style:italic;
+	text-shadow:5px 5px 5px yellow;
+	}
+.SiteName1
+{
+width:300px;
+margin-left:60%;
+margin-top:20px;	
+z-index:3;
+	}
+
+.SiteName2
+{
+width:200px;
+margin-left:75%;
+margin-top:65px;	
+z-index:1;
+	}

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="896d8dbf-a7e8-4b62-858a-cf13856f4fd8" name="Lancer@REMBO 2014-07-17 18:41:34" runUser="REMBO\Lancer" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Default Run Configuration" id="f78b71ec-9080-4387-ab7c-2539ef043ea3">
+    <Deployment runDeploymentRoot="D:\Projects\dot.net\HoneyProduct\Honey\TestResults\Lancer_REMBO 2014-07-17 18_41_34">
+      <DeploymentItem filename="D:\Projects\dot.net\HoneyProduct\Honey\LINQtoCSV\bin\Debug\LINQtoCSV.dll" />
+      <DeploymentItem filename="D:\Projects\dot.net\HoneyProduct\Honey\DAL\bin\Debug\Honey.DAL.dll" />
+      <DeploymentItem filename="D:\Projects\dot.net\HoneyProduct\Honey\Common\bin\Debug\Honey.Common.dll" />
+    </Deployment>
+    <Hosts skipUnhostableTests="false" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2014-07-17T18:41:34.6718750+03:00" queuing="2014-07-17T18:41:36.3750000+03:00" start="2014-07-17T18:41:36.6250000+03:00" finish="2014-07-17T18:41:37.2812500+03:00" />
+  <TestDefinitions>
+    <UnitTest name="AddTest" storage="d:\projects\dot.net\honeyproduct\honey\test\bin\debug\honey.test.dll" id="9641e4df-c17a-297a-2ae2-99b7d083128f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="d5ffc2d0-47bc-40cb-8b09-0c95b528b2f6" />
+      <TestMethod codeBase="D:\Projects\dot.net\HoneyProduct\Honey\Test\bin\Debug\Honey.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Honey.Test.SubscriberCRUDTest, Honey.Test" name="AddTest" />
+    </UnitTest>
+    <UnitTest name="GetListTest" storage="d:\projects\dot.net\honeyproduct\honey\test\bin\debug\honey.test.dll" id="62434447-6b72-a75d-1655-bbcac9f4d18f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0a9fb66f-d117-4258-9f6b-92477547e55b" />
+      <TestMethod codeBase="D:\Projects\dot.net\HoneyProduct\Honey\Test\bin\Debug\Honey.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Honey.Test.SubscriberCRUDTest, Honey.Test" name="GetListTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="62434447-6b72-a75d-1655-bbcac9f4d18f" executionId="0a9fb66f-d117-4258-9f6b-92477547e55b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9641e4df-c17a-297a-2ae2-99b7d083128f" executionId="d5ffc2d0-47bc-40cb-8b09-0c95b528b2f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0a9fb66f-d117-4258-9f6b-92477547e55b" testId="62434447-6b72-a75d-1655-bbcac9f4d18f" testName="GetListTest" computerName="REMBO" duration="00:00:00.0605865" startTime="2014-07-17T18:41:36.6875000+03:00" endTime="2014-07-17T18:41:37.2187500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d5ffc2d0-47bc-40cb-8b09-0c95b528b2f6" testId="9641e4df-c17a-297a-2ae2-99b7d083128f" testName="AddTest" computerName="REMBO" duration="00:00:00.0034928" startTime="2014-07-17T18:41:37.2343750+03:00" endTime="2014-07-17T18:41:37.2343750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

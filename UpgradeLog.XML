@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Honey">
+</Property><Property Name="Solution File" Value="D:\Projects\HoneyProduct\Honey\Honey.sln">
+</Property><Property Name="User Options File" Value="D:\Projects\HoneyProduct\Honey\Honey.suo">
+</Property><Property Name="Date" Value="30 липня 2014 р.">
+</Property><Property Name="Time" Value="12:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Honey.sln" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Honey.suo" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey.suo">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Honey.csproj" Description="Project file successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Honey.csproj">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Honey.csproj.user" Description="Project user file successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Honey.csproj.user">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\BeMaster.Master.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\BeMaster.Master.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\BeMaster.Master.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\BeMaster.Master.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Default.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Default.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Login.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Login.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Login.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Login.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\NewPosting.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\NewPosting.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\NewPosting.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\NewPosting.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\NewProduct.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\NewProduct.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\NewProduct.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\NewProduct.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\NewTopic.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\NewTopic.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\NewTopic.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\NewTopic.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\SendEmail.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\SendEmail.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\SendEmail.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\SendEmail.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Subscribers.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Subscribers.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Subscribers.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Subscribers.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Topics.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Topics.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Topics.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Topics.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\EditSubscriberControl.ascx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\EditSubscriberControl.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\EditSubscriberControl.ascx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\EditSubscriberControl.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\ISecuredControl.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\ISecuredControl.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\MyCheckBox.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\MyCheckBox.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\MyHyperLink.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\MyHyperLink.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\MyLinkButton.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\MyLinkButton.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\NewPostingControl.ascx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\NewPostingControl.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\NewPostingControl.ascx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\NewPostingControl.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\NewProductControl.ascx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\NewProductControl.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\NewProductControl.ascx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\NewProductControl.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\NewTopicControl.ascx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\NewTopicControl.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\NewTopicControl.ascx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\NewTopicControl.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\PagerControl.ascx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\PagerControl.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\PagerControl.ascx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\PagerControl.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\SubscriberControl.ascx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\SubscriberControl.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\SubscriberControl.ascx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\SubscriberControl.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\TopicControl.ascx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\TopicControl.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\TopicControl.ascx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\TopicControl.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Default.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Default.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Email\EmailHelper.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Email\EmailHelper.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Foto.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Foto.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Foto.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Foto.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Postings.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Postings.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Postings.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Postings.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Products.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Products.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Products.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Products.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Master.Master.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Master.Master.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Master.Master.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Master.Master.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Unsubscribe.aspx.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Unsubscribe.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Unsubscribe.aspx.designer.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Unsubscribe.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Data\Posting.csv" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Data\Posting.csv">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Data\Subscriber.csv" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Data\Subscriber.csv">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Data\Topic.csv" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Data\Topic.csv">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Data\User.csv" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Data\User.csv">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Default.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Default.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Menu.css" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Menu.css">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Web.config" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Web.config">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Default.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Default.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Login.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Login.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\SubscriberControl.ascx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\SubscriberControl.ascx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Master.Master" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Master.Master">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Eggs\Style.css" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Eggs\Style.css">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Img\hex.gif" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Img\hex.gif">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Img\hexSelected.gif" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Img\hexSelected.gif">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Img\honey-jar.png" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Img\honey-jar.png">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Img\Мед0.PNG" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Img\Мед0.PNG">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Img\Мед100.PNG" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Img\Мед100.PNG">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Img\Мед25.PNG" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Img\Мед25.PNG">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Img\Мед50.PNG" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Img\Мед50.PNG">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Img\Мед75.PNG" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Img\Мед75.PNG">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Style.Common.css" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Style.Common.css">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\BeMaster.Master" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\BeMaster.Master">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\NewPosting.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\NewPosting.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\NewProduct.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\NewProduct.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\NewTopic.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\NewTopic.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\SendEmail.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\SendEmail.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Subscribers.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Subscribers.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\BE\Topics.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\BE\Topics.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\EditSubscriberControl.ascx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\EditSubscriberControl.ascx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\NewPostingControl.ascx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\NewPostingControl.ascx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\NewProductControl.ascx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\NewProductControl.ascx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\NewTopicControl.ascx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\NewTopicControl.ascx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\PagerControl.ascx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\PagerControl.ascx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Controls\TopicControl.ascx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Controls\TopicControl.ascx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Email\Template.html" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Email\Template.html">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Foto.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Foto.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\Bee.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\Bee.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-0.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-0.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-1.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-1.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-10.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-10.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-11.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-11.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-2.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-2.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-3.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-3.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-4.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-4.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-5.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-5.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-6.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-6.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-7.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-7.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-8.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-8.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\images-9.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\images-9.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\MyDrawenBarrel-1.jpeg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\MyDrawenBarrel-1.jpeg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Pictures\Sunset.jpg" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Pictures\Sunset.jpg">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Postings.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Postings.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\AlertMessage.css" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\AlertMessage.css">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\BeMaster.css" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\BeMaster.css">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\ButtonStyle.css" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\ButtonStyle.css">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\Hexagon.css" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\Hexagon.css">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\SiteName.css" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\SiteName.css">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\App_Themes\Honey\TextBoxStyle.css" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\App_Themes\Honey\TextBoxStyle.css">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Products.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Products.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Unsubscribe.aspx" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Honey\Unsubscribe.aspx">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Honey.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Honey" Source="Honey\Honey.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\LINQtoCSV.csproj" Description="Project file successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\LINQtoCSV.csproj">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\CsvColumnAttribute.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\CsvColumnAttribute.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\CsvContext.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\CsvContext.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\CsvFileDescription.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\CsvFileDescription.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\CsvStream.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\CsvStream.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\DataRow.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\DataRow.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\DataRowItem.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\DataRowItem.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\Exceptions.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\Exceptions.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\FieldMapper.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\FieldMapper.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\IDataRow.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\IDataRow.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\LINQtoCSV\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\LINQtoCSV.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LINQtoCSV" Source="LINQtoCSV\LINQtoCSV.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project file successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj.user" Description="Project user file successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\DAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\CRUD\CRUD.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\CRUD\CRUD.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\CRUD\PostingCRUD.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\CRUD\PostingCRUD.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\CRUD\ProductCRUD.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\CRUD\ProductCRUD.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\CRUD\RecipientCRUD.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\CRUD\RecipientCRUD.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\CRUD\SubscriberCRUD.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\CRUD\SubscriberCRUD.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\CRUD\TopicCRUD.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\CRUD\TopicCRUD.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\CRUD\UserCRUD.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\CRUD\UserCRUD.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Entity\Base.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\Entity\Base.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Entity\Posting.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\Entity\Posting.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Entity\Product.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\Entity\Product.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Entity\Recipient.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\Entity\Recipient.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Entity\Subscriber.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\Entity\Subscriber.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Entity\Topic.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\Entity\Topic.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Entity\User.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\Entity\User.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\DAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\Common.csproj" Description="Project file successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Common\Common.csproj">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\Constants.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Common\Constants.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\DataPathHelper.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Common\DataPathHelper.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Common\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\Common.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Common" Source="Common\Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.csproj" Description="Project file successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Test\Test.csproj">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Test\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\SubscriberCRUDTest.cs" Description="File successfully backed up as D:\Projects\HoneyProduct\Honey\Backup\Test\SubscriberCRUDTest.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Test" Source="Test\Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Honey.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Honey.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Honey" Source="Honey\Honey.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LINQtoCSV" Source="LINQtoCSV\LINQtoCSV.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\Common.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

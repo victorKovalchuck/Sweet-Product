@@ -1,0 +1,18 @@
+﻿.hex
+{
+	width: 290px;
+	height: 278px;	
+	text-align:center;
+	line-height: 78px;
+	font-size: 12px;
+	 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='D:\Projects\HoneyProduct\Honey\Honey\App_Themes\Honey\Img\hex.gif', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( src='D:\Projects\HoneyProduct\Honey\Honey\App_Themes\Honey\Img\hex.gif', sizingMethod='scale')";
+}
+
+a:hover .hex
+{
+
+     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='D:\Projects\HoneyProduct\Honey\Honey\App_Themes\Honey\Img\hexSelected.gif', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( src='D:\Projects\HoneyProduct\Honey\Honey\App_Themes\Honey\Img\hexSelected.gif', sizingMethod='scale')";
+}
+

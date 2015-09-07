@@ -1,0 +1,43 @@
+﻿    
+.ddList
+{
+    width:44%;padding:5px;
+}
+ 
+.Reserve
+{
+    width:40%;
+    padding:5px;
+}
+  
+.UnchangableReserve
+{
+    position: absolute;
+    right:20px;
+    width:20%;
+    padding:5px
+}
+  
+.btnAccept
+{
+    display:none;
+}
+  
+.spnUnce
+{
+    position:absolute;
+    right:25%;
+    margin-top:10px;
+}
+    
+.Social div
+{
+    display:inline-block;    
+}
+ 
+.Social
+{
+    position:absolute;
+    bottom:70px;
+    margin-left:42%;
+}

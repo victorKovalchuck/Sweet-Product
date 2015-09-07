@@ -1,0 +1,23 @@
+﻿.ProductData
+{
+    width:100%;
+}
+
+.ProductName
+{
+font-style:oblique;    
+}
+
+.ProductOldPrice
+{
+    text-decoration:line-through;
+    color:Red;    
+    padding-bottom:2px;
+}
+
+.ProductNewPrice
+{
+    text-decoration:underline;
+    color:Green;    
+    padding-bottom:2px;
+}

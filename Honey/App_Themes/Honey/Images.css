@@ -1,0 +1,20 @@
+﻿    .GarImage
+    {
+        position:absolute;
+        top:0px;
+        right:10px;
+        width:250px;
+        height:250px;
+        background: url('/App_Themes/Honey/img/honey-jar.png') no-repeat right top;
+	    background-size: auto 100%;	
+    }
+    .GarImageForIE
+    {
+        position:absolute;
+        top:0px;
+        right:10px;
+	    width:300px;
+        height:250px;
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/App_Themes/Honey/Img/honey-jar.png', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/App_Themes/Honey/Img/honey-jar.png', sizingMethod='scale')";    
+    }

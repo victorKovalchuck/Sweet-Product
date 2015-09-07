@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BeMaster.master.cs" Inherits="Honey.BE.BeMaster" %>
+<%@ Register TagPrefix="honey" Namespace="Honey.Controls" Assembly="Honey" %>
+
+<head id="Head1" runat="server">
+<title></title>  
+</head>
+
+<body>
+    <form id="form1" runat="server">
+     <div class="BEContainer">    
+         <div class="BeMasterHeader">                                 
+             <honey:MyLinkButton ID="lnkBtn" runat="server" Text="Log Out" Visible="false" OnClick="lnkbtnLogOut_Click" CssClass="lnkbtnSignOut" Secured="true" ></honey:MyLinkButton>            
+            <ul class="Menu">   
+                <li><a href="Subscribers.aspx">Subscribers</a></li> 
+                <li><a href="SendEmail.aspx">SendEmail</a></li>                          
+                <li><a href="NewPosting.aspx">NewPosting</a></li>
+                <li><a href="NewProduct.aspx">NewProduct</a></li>
+                <li><a href="Topics.aspx">Topics</a></li>    
+                <li><a href="Customers.aspx">Customers</a></li>           
+                <li><a href="../Default.aspx">FE</a></li>                                                         
+            </ul>         
+         </div>
+         <div class="ContentTitle">
+            <asp:ContentPlaceHolder ID="cntTitle" runat="server">        
+            </asp:ContentPlaceHolder>
+        </div>
+    <div class="BeMasterBody">        
+        <div id="lblMessage" runat="server" visible="false"></div>
+        <asp:ContentPlaceHolder ID="cntBody" runat="server"></asp:ContentPlaceHolder>
+    </div>
+    <div class="BeMasterFooter">
+        <a href="Subscribers.aspx">Subscribers</a>
+        <a href="SendEmail.aspx">SendEmail</a>
+        <a href="NewPosting.aspx">NewPosting</a>
+        <a href="NewProduct.aspx">NewProduct</a>
+        <a href="Topics.aspx">Topic</a>
+        <a href="Customers.aspx">Customers</a>        
+        <a href="../Default.aspx">FE</a>  
+    </div>
+    </div>
+    </form>
+</body>
+

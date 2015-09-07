@@ -1,0 +1,60 @@
+﻿.hex{
+	width: 90px;
+	height: 78px;
+	background: url('img/hex.gif') no-repeat;
+	background-size: 100%;
+	text-align:center;
+	line-height: 80px;
+	font-size: 14px;
+	font-variant:small-caps;
+	font-family:Cursive;
+	font-weight:500;	
+	 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='D:\Projects\HoneyProduct\Honey\Honey\App_Themes\Honey\Img\hex.gif', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( src='D:\Projects\HoneyProduct\Honey\Honey\App_Themes\Honey\Img\hex.gif', sizingMethod='scale')";    
+}
+
+a:hover .hex
+{    
+    background: url('img/hexSelected.gif') no-repeat;	
+    background-size: 100%;
+     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='D:\Projects\HoneyProduct\Honey\Honey\App_Themes\Honey\Img\hexSelected.gif', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( src='D:\Projects\HoneyProduct\Honey\Honey\App_Themes\Honey\Img\hexSelected.gif', sizingMethod='scale')";
+}
+.menuConatiner{
+	position:relative;	
+}
+.itemPos1{
+	position:absolute;
+	left: 0px;
+}
+.itemPos2{
+	position:absolute;
+	top: -40px;
+	left: 70px;
+}
+.itemPos3{
+	position:absolute;
+	left: 140px;
+}
+.itemPos4{
+	position:absolute;
+	top: 40px;
+	left: 70px;
+	background: url('img/hexCentral2.gif') no-repeat;
+	background-size: 100%;
+}
+.itemPos5{
+	position:absolute;
+	top: 80px;
+	left: 0px;
+}
+.itemPos6{
+	position:absolute;
+	top: 80px;
+	left: 140px;
+}
+.itemPos7{
+	position:absolute;
+	top: 120px;
+	left: 70px;
+}
