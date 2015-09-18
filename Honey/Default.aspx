@@ -112,12 +112,6 @@ Title="Свіжий мед- Львів"%>
     </span>     
     </td>    
 </tr>
-<%--<tr>
-    <td colspan="3" style="vertical-align:bottom">      
-        <marquee scrollAmount="3" behavior="scroll" direction="side" width="100%" height="20px" style="background-color:Orange; display:inline-block; position:relative;">        
-            <asp:Label ID="lblScroll" runat="server"></asp:Label></marquee>      
-    </td>
-</tr>--%>
 </table>
 
 </asp:Content>

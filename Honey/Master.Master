@@ -13,23 +13,18 @@
 <meta name="twitter:description" content="МійСайт" />
 <meta name="twitter:creator" content="season-med" />
 <!-- Twitter summary card with large image must be at least 280x150px -->
-<meta name="twitter:image:src" content="http://season-med.lviv.ua/Pictures/monoflerny.jpg"/>
+<meta name="twitter:image:src" content="~/Pictures/monoflerny.jpg"/>
 <!-- Open Graph data -->
 <meta property="fb:app_id" content="376670065855720" />
 <meta property="og:title" content="Мед" />
 <meta property="og:type" content="food" />
-<meta property="og:url" content="http://season-med.lviv.ua/" />
-<meta property="og:image" content="Pictures/images-0.jpeg" />
+<meta property="og:url" content="" />
+<meta property="og:image" content="~/Pictures/Bee.jpeg" />
 <meta property="og:description" content="СезоннийМед" />
 <meta property="og:site_name" content="СезоннийМед" />
-
-<link rel="icon" type="image/ico" href="Pictures/images-0.jpeg"/>
-<link rel="shortcut icon" href="http://season-med.lviv.ua/App_Themes/Honey/Img/jar.ico"/>
-
-
-    <img src="Pictures/images-1.jpeg" />
+    <link rel="icon" type="image/ico" href="~/App_Themes/Honey/Img/jar.ico"/>
+    <link rel="shortcut icon" href="~/App_Themes/Honey/Img/jar.ico"/>
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css"/>
-
     <script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.js"></script>
     <script type="text/javascript" src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
     <script src="Scripts/json2.js" type="text/javascript"></script>
@@ -48,18 +43,12 @@
   </script>
       <![endif]>
     <script src="Slider/startstop-slider.js" type="text/javascript"></script>
-    <script src="Scripts/JqueryUiDialog.js" type="text/javascript"></script>
-   
-
-
+    <script src="Scripts/JqueryUiDialog.js" type="text/javascript"></script>   
     <script type="text/javascript" src="http://vkontakte.ru/js/api/share.js?9" charset="windows-1251"></script>
-    <script src="Scripts/ShareButtons.js" type="text/javascript"></script> 
-    
+    <script src="Scripts/ShareButtons.js" type="text/javascript"></script>     
      <!--[if IE]>
          <script type="text/javascript" src="Scripts/IEPlaceholder.js"></script>
-    <![endif]-->
- 
-
+    <![endif]--> 
 </head>
 
 <body>
@@ -94,7 +83,7 @@
             <![endif]>	           
 				<div class="title">                             
                  <a href="Default.aspx" class="SiteName">Сезонний Мед</a><br />
-                  <a href="ContactAs.aspx" class="titlePhone">тел: 0678000xxx</a>
+                  <a href="ContactAs.aspx" class="titlePhone">тел: 0507116xxx</a>
 					<div class="order">
                         <button id="create-user" class="btnSubmitTitle">Закачати меду</button>											
 					</div>
@@ -130,9 +119,9 @@
                 </td>
                 <td style="width:7%;vertical-align:top;"> 
                     <div style="position:fixed;right:0px;">
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=http://season-med.lviv.ua/"><img src="Pictures/fb.png" /></a>  <br />                     
-                        <a href="https://twitter.com/home?status=http://season-med.lviv.ua/"><img src="Pictures/twitter.png" /></a>  <br />                 
-                        <a href="http://vkontakte.ru/share.php?url=http://season-med.lviv.ua/" target="_blank"><img src="Pictures/vk.png" /></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:8000"><img src="Pictures/fb.png" /></a>  <br />                     
+                        <a href="https://twitter.com/home?status=http://localhost:8000"><img src="Pictures/twitter.png" /></a>  <br />                 
+                        <a href="http://vkontakte.ru/share.php?url=http://localhost:8000" target="_blank"><img src="Pictures/vk.png" /></a>
                     </div>                               
                 </td>
             </tr>           
